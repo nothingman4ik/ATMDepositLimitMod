@@ -1,0 +1,3 @@
+# ATM Deposit Limit Configuration
+# Default value: 25000
+DepositLimit=25000 

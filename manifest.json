@@ -1,0 +1,9 @@
+{
+    "name": "ATM Deposit Limit Mod",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "Changes the ATM deposit limit from $10,000 to a customizable amount (default: $25,000)",
+    "dependencies": [
+      "LavaGang-MelonLoader-0.7.0"
+    ]
+} 
